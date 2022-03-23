@@ -1,2 +1,2 @@
 # ahmesh-cpp
-Array-based meshing tolls in C++
+Array-based High-order meshing tools in C++
